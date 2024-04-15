@@ -20,6 +20,7 @@
    Para todos los casos implemente el test correspondiente. 
 
 - - -
+### Aclaración:
 
 Los ejemplos de los que se habla en la consigna se encuentran en la ruta: `src/main/java/ejemplosClase`
 
