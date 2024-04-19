@@ -6,8 +6,8 @@ import java.util.List;
 
 public interface ClienteService {
 	//Representan los casos de usos de mi aplicación
-	public void agregarCliente(String nombre);
-	public void borrarCliente(int id);
-	public List<Cliente> obtenerClientes();
+	void agregarCliente(String nombre);
+	void borrarCliente(int id);
+	List<Cliente> obtenerClientes();
 
 }

@@ -42,5 +42,8 @@ Y sus correspondientes tests en esta otra ruta: `src/test/java/testEjemplosClase
    - Solución del ejercicio en la siguiente ruta: `src/main/java/ejercicio3`.
    - Test: `src/test/java/testEjercicios/Ejercicio3`.
 4) Significa que el contenedor de Weld ha sido levantado y al finalizar el ciclo de vida de la aplicación, se destruyó.
-5) Solución del ejercicio en la ruta: `src/main/java/ejercicio5`
+5) Se agrega el servicio necesario para gestionar empleados. Adicionalmente, se agrega su correspondiente objeto de 
+ negocio y repositorio.
+   - Solución del ejercicio en la ruta: `src/main/java/ejercicio5`
+   - Test: `src/test/java/testEjercicios/Ejercicio5`.
 
